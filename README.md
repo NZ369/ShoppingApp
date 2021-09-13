@@ -16,3 +16,9 @@ Future Implementations & Considerations:
 To run code use:
 - npm install
 - npm start
+
+![alt text](https://github.com/NZ369/ShoppingApp/blob/main/images/login.png)
+![alt text](https://github.com/NZ369/ShoppingApp/blob/main/images/login2.png)
+![alt text](https://github.com/NZ369/ShoppingApp/blob/main/images/products.png)
+![alt text](https://github.com/NZ369/ShoppingApp/blob/main/images/add.png)
+![alt text](https://github.com/NZ369/ShoppingApp/blob/main/images/nav.png)
